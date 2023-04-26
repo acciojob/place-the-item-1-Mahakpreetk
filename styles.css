@@ -13,8 +13,8 @@
 .holder{
 	display:flex;
 	justify-content:space-between;
-	flex-wrap:wrap;
-	flex-direction:row;
+	/*flex-wrap:wrap;
+	flex-direction:row;*/
 }
 .box:nth-child(1){
 	order:3;
